@@ -1,4 +1,4 @@
-# FinalProjectINF721
+# Final Project INF 721
 
 ## Description
 
